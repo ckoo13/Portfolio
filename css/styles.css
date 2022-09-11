@@ -11444,8 +11444,8 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 13rem;
-  height: 13rem;
+  width: 14rem;
+  height: 14rem;
   object-fit: cover;
   border-radius: 100%;
   -webkit-box-shadow: -1px 10px 5px 0px rgba(0,0,0,0.75);
