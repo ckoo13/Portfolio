@@ -8,11 +8,11 @@
 
 #kooflix-button-live {
     margin-right: 10px;
-    background-color: #343a40;
+    background-color: #1abc9c;
 }
 
 #kooflix-button-git {
-    background-color: #343a40;
+    background-color: #1abc9c;
 }
 
 #kooflix-modal-gif {
@@ -27,9 +27,37 @@
 
 #modal-button-live {
     margin-right: 10px;
-    background-color: #343a40;
+    background-color: #1abc9c;
 }
 
 #modal-button-git {
-    background-color: #343a40;
+    background-color: #1abc9c;
+}
+
+/* About Section */
+
+.skills {
+    width: 500px;
+    border: none;
+    margin-left: 40px;
+    border-radius: 16px;
+}
+
+#resume-button {
+    margin-top: 30px;
+    background-color: #1abc9c;
+    border: none;
+}
+
+/* Social Icons */
+#social {
+    font-size: 40px;
+    color: white;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    width: 200px;
 }
